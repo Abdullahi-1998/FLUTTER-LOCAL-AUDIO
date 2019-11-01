@@ -1,6 +1,8 @@
 # localaudio
 
-A new Flutter project.
+A Local Audio Player made in Flutter 
+Give it a Star
+
 
 ## Getting Started
 
